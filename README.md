@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @WinstonCHEN1
 - 👀 I’m interested in AI!
-- 🌱 I’m currently learning university courses...
-- 📫 How to reach me :1281838223@qq.com
+- 💼 Researching on Machine Learning, GRAG(Graph RAG), Graph Neural Networks.
+- 🌱 I’m still currently learning university courses...
+- 📫 How to reach me :winstonccc726@gmail.com | 1281838223@qq.com
 - 🏫 SWU
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinstonCHEN1)](https://github.com/anuraghazra/github-readme-stats)
