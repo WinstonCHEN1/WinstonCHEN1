@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI!
 - 💼 Researching on Machine Learning, GRAG(Graph RAG), Graph Neural Networks.
 - 🌱 I’m still currently learning university courses...
-- 📫 How to reach me :winstonccc726@gmail.com | 1281838223@qq.com
+- 📫 How to reach me :winstonccc726@gmail.com
 - 🏫 SWU
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinstonCHEN1&count_private=true)
