@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @WinstonCHEN1
 - 👀 I’m interested in AI!
-- 💼 Researching on Machine Learning, GRAG(Graph RAG), Graph Neural Networks.
-- 🌱 I’m still currently learning university courses...
+- 💼 Researching on Machine Learning, Retrieval-Augmented Generation(RAG), Graph Neural Networks(GNN).
 - 📫 How to reach me :winstonccc726@gmail.com
-- 🏫 SWU
+- 🏫 Southwest University
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WinstonCHEN1&count_private=true)
 <!---
